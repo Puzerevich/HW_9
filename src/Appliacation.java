@@ -11,5 +11,7 @@ public class Appliacation {
         fileLogger.debug("Hello world!");
         fileLogger.debug("Hello world!");
         fileLogger.info("info message");
+
+
     }
 }
